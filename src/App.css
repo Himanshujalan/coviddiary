@@ -1,0 +1,148 @@
+.navbar {
+    background-color: #1165ae !important; 
+    height: 10px !important;
+}
+
+.btn {
+    background-color: #1165ae !important;
+     width: 200px !important;
+}
+
+
+.form-control {
+    max-width: 350px !important;
+}
+
+.type{
+    text-align: right;
+    font-weight: 700;
+    font-size: 14px !important;
+    margin: 0px 20px 0px 20px;
+    color: white;
+    
+    
+}
+
+.type2 {
+    background-color: #1165ae;
+    padding: 3px;
+    border-radius: 4px;
+}
+
+.bold{
+    font-weight: 700;
+    font-size: 14px;
+ 
+}
+
+.type3{
+    text-align: left;
+    font-size: 13px !important;
+    font-weight: 700;
+}
+
+.phone_style {
+    text-decoration: none !important;
+    font-size: 14px !important;
+}
+.type5 {
+     margin: auto;
+    background-color: #1165ae;
+    padding: 3px;
+    font-size: 12px;
+    border-radius: 4px;
+    font-weight: 500 !important;
+    width: 140px !important;
+}
+
+.type6{
+    margin-top: 20px !important;
+   color: white !important;
+  text-align: center;
+}
+
+.card-text1{
+    font-size: 14px !important;
+}
+
+.footer {
+   
+    background-color: #1165ae !important;
+
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+.foot{
+    text-align: center !important;
+    background-color: #1165ae !important;
+    color: white;
+    height: 1em;
+   font-weight: 100;
+   margin-top: 10px !important;
+    
+}
+
+.size {
+    font-size: 12.5px !important;
+}
+
+.whatsapp{
+    text-align: right !important;
+    
+     font-size: 14px !important;
+     text-decoration: none;
+     font-weight: 500;
+}
+.whatsapp1 {
+    font-size: 14px !important;
+   text-decoration: none;
+   font-weight: 500;
+}
+
+/* .h1text{
+    font-size: 20px !important;
+} */
+
+.textcentre{
+    margin-top: -15px;
+    text-align: center;
+    color: black !important;
+}
+
+.main_section{
+    margin-top: -30px !important; 
+}
+.tagline{
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    font-weight: 500;
+}
+
+.share {
+    text-align: right;
+    font-weight: 700;
+    font-size: 14px !important;
+    margin: 0px 10px 0px 10px;
+    color: white;
+    
+    
+}
+
+.share1 {
+      background-color: #1165ae;
+      padding: 3px;
+      border-radius: 4px;
+
+}
+
+.phone_style1,
+.phone_style1:hover {
+    text-decoration: none !important;
+    color: white;
+}
+
+.phone_style2{
+     text-decoration: none !important;
+}
